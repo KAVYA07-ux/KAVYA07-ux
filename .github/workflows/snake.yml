@@ -14,7 +14,7 @@ jobs:
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: KAVYA07-ux
 
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23c77dff&color_dots=%23d8f3dc,%23b7e4c7,%2395d5b2,%2352b788,%232d6a4f
