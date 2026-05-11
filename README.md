@@ -1,16 +1,39 @@
 <h1 align="center">Hi 👋, I'm Kavya Mehndiratta</h1>
-<h3 align="center">A passionate Full Stack Web Developer | DSA & ML Enthusiast | DSA Learner</h3>
 
-🌱 I’m currently learning:
-Enhancing frontend skills with React, and component optimization
-Advanced backend development with OAuth & JWT
-Machine Learning model tuning and deployment
-Building scalable systems 
+<h3 align="center">
+AI/ML Enthusiast • Full Stack Learner • Creative Developer
+</h3>
 
-I’m looking to collaborate on:
-Web development projects
-AI/ML-based tools 
-Open-source contributions focused on real-world problem-solving
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Exploring+AI+%26+Full+Stack;Learning+Something+New+Everyday+✨" />
+</p>
+
+---
+
+## 🌸 About Me
+
+- 🎓 B.Tech CSE Student  
+- 🌱 Currently learning React, Spring Boot & ML  
+- 💡 Interested in AI/ML, Full Stack & Creative Tech  
+- ⚡ Building projects and improving every day  
+- 🎯 Goal: Become industry-ready with strong real-world skills  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-C77DFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-E0AAFF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+</p>
+
+---
+
 ## 💜 Tech Stack
 
 <p align="left">
@@ -43,15 +66,53 @@ Open-source contributions focused on real-world problem-solving
 
 </p>
 
+---
+
+## 🚀 Featured Projects
+
+✨ Brain Tumor Classification  
+✨ PhonePe Transaction Insights Dashboard  
+✨ YouTube Summarizer App  
+✨ Personal Portfolio Website  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAVYA07-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVYA07-ux&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=KAVYA07-ux&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/KAVYA07-ux/KAVYA07-ux/output/github-contribution-grid-snake-dark.svg">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KAVYA07-ux/KAVYA07-ux/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/KAVYA07-ux/KAVYA07-ux/output/github-contribution-grid-snake.svg">
+---
 
-  <img alt="github contribution snake"
-    src="https://raw.githubusercontent.com/KAVYA07-ux/KAVYA07-ux/output/github-contribution-grid-snake.svg">
-</picture>
+## ✨ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<p align="center">
+💜 Thanks for visiting my profile 💜
+</p>
