@@ -20,16 +20,6 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="mailto:kavyamehndiratta05@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-E0AAFF?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-</p>
-
----
-
 ## 💜 Tech Stack
 
 <p align="left">
@@ -62,11 +52,6 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
 
 </p>
 
-
----
-
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/KAVYA07-ux/KAVYA07-ux/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
@@ -80,6 +65,13 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
 </p>
 
 ---
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:kavyamehndiratta05@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-E0AAFF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+</p>
 
 <p align="center">
 💜 Thanks for visiting my profile 💜
