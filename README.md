@@ -23,11 +23,7 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-C77DFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:kavyamehndiratta05@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-E0AAFF?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 </p>
@@ -66,26 +62,6 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
 
 </p>
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KAVYA07-ux&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVYA07-ux&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15" height="170"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=KAVYA07-ux&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
