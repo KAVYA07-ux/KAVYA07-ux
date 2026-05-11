@@ -8,8 +8,6 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
   <img src="https://readme-typing-svg.herokuapp.com?color=C77DFF&center=true&vCenter=true&lines=AI%2FML+Enthusiast;Full+Stack+Learner;Creative+Developer" />
 </p>
 
----
-
 ## 🌸 About Me
 
 - 🎓 B.Tech CSE Student  
@@ -17,8 +15,6 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
 - 💡 Interested in AI/ML, Full Stack & Creative Tech  
 - ⚡ Building projects and improving every day  
 - 🎯 Goal: Become industry-ready with strong real-world skills  
-
----
 
 ## 💜 Tech Stack
 
@@ -55,8 +51,6 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
 <p align="center">
   <img src="https://raw.githubusercontent.com/KAVYA07-ux/KAVYA07-ux/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
----
 
 ## ✨ Random Dev Quote
 
