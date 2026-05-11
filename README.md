@@ -73,9 +73,9 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAVYA07-ux&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KAVYA07-ux&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15" height="170"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVYA07-ux&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVYA07-ux&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15" height="170"/>
 
 </p>
 
