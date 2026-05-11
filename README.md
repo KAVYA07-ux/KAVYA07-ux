@@ -5,7 +5,7 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=C77DFF&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Exploring+AI+%26+Full+Stack;Learning+Something+New+Everyday+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=C77DFF&center=true&vCenter=true&lines=AI%2FML+Enthusiast;Full+Stack+Learner;Creative+Developer" />
 </p>
 
 ---
@@ -66,14 +66,6 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
 
 </p>
 
----
-
-## 🚀 Featured Projects
-
-✨ Brain Tumor Classification  
-✨ PhonePe Transaction Insights Dashboard  
-✨ YouTube Summarizer App  
-✨ Personal Portfolio Website  
 
 ---
 
@@ -81,9 +73,9 @@ AI/ML Enthusiast • Full Stack Learner • Creative Developer
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAVYA07-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KAVYA07-ux&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVYA07-ux&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVYA07-ux&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </p>
 
